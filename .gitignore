@@ -1,0 +1,103 @@
+# Visual Studio files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.sln.docstates
+*.userprefs
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.pidb
+*.log
+*.bin
+*.exe
+*.dll
+*.pdb
+*.cache
+*.dll.config
+*.bak
+*.cache
+*.tmp
+*.tmp_proj
+*.csproj.user
+*.VC.db
+*.VC.VC.opendb
+
+# ReSharper files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# MSTest
+TestResults/
+
+# StyleCop
+StyleCopReport.xml
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+# Visual Studio code coverage
+*.coverage
+*.coveragexml
+
+# Build results of an ATL project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# Roslyn cache directories
+*.ide/
+*.sln.ide/
+
+# Xamarin-specific
+*.apk
+*.ap_
+*.aab
+*.app
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.DSYM
+*.apk
+*.ap_
+*.aab
+*.oab
+*.so
+*.o
+*.d
+*.zip
+*.xap
+*.xap.prev
+*.pvr
+*.pvr.ccz
+*.ccz
+*.plist
+*.ipa
+*.manifest
+*.manifest.bak
+*.opendb
+*.VC.opendb
+*.mode*
+*.[Cc]ache
+*.ilk
+*.meta
+*.winmd
+*.editorconfig
